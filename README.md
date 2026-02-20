@@ -8,7 +8,7 @@ The project demonstrates core frontend development concepts including DOM manipu
 
 ## Live Demo
 
-tic-tac-toe-1935.vercel.app
+https://tic-tac-toe-1935.vercel.app/
 
 ---
 
